@@ -1,13 +1,12 @@
 body {
-            margin-top: 20px;
-            background-color: #eee;
-        }
+    margin-top: 20px;
+}
 
 
 
 .img_center {
     display: flex;
-    margin:0 auto;
+    margin: 0 auto;
     justify-content: center;
     align-content: flex-start;
     flex-wrap: wrap;
@@ -16,14 +15,13 @@ body {
 #linkedin-link {
     padding: 5px;
 }
+
 #linkedin-logo {
     width: 60px;
     height: 60px;
     border-radius: 5px;
 }
-.jumbotron {
-    background-color: darkgray;
-}
+
 img:hover {
     box-shadow: 0 0 10px black;
 }
@@ -31,8 +29,9 @@ img:hover {
 #full_name {
     text-shadow: 0 0 1px white;
 }
+
 #degrees {
-    text-shadow:  0 0 2px white;
+    text-shadow: 0 0 2px white;
 }
 
 
@@ -43,6 +42,6 @@ img:hover {
 
 #github-logo {
     width: 60px;
-    height: 60px;   
+    height: 60px;
     border-radius: 50%;
 }
